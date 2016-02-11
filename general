@@ -5,14 +5,14 @@
 ! Filtre in plus fata de ublock default + Fanboy Enhanced + 3xSocial
 !
 !trackers
-||ophan.co.uk^$third-party$important
+||ophan.co.uk^$third-party,important
 !
 ! Retele sociale
-||twitter.com^$third-party$important
-||facebook.com^$third-party$important
-||facebook.net^$third-party$important
-||pinterest.com^$third-party$important
-||linkedin.com^$third-party$important
+||twitter.com^$third-party,important
+||facebook.com^$third-party,important
+||facebook.net^$third-party,important
+||pinterest.com^$third-party,important
+||linkedin.com^$third-party,important
 !
 ! Ads
-||doubleclick.net^$important
+||doubleclick.net^$third-party,important
