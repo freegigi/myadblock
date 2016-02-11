@@ -10,7 +10,6 @@ www.digi24.ro###popupVideoBottom
 www.digi24.ro###sticky-popup
 
 !trackers
-! ||profiling.avandor.com^
 ||avandor.com^$third-party,important
 ||chargeplatform.com^$third-party,important
 ||idunic.ro^$third-party,important
