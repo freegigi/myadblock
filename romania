@@ -8,14 +8,18 @@
 www.digi24.ro###digi-fm-live-stream
 www.digi24.ro###popupVideoBottom
 www.digi24.ro###sticky-popup
-
+!
 !trackers
 ||avandor.com^$third-party,important
 ||chargeplatform.com^$third-party,important
 ||idunic.ro^$third-party,important
-
+!
+! cacaturi
+||2parale.ro^,important
+||profitshare.ro^,important
+!
+! popup extensii
+||rt.awstaticdn.net^,important
+!
 !altele
 ||betradar.com^$third-party,important
-||2parale.ro^$third-party,important
-||profitshare.ro^$third-party,important
-||rt.awstaticdn.net^,important
