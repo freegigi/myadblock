@@ -11,10 +11,10 @@ www.digi24.ro###sticky-popup
 
 !trackers
 ! ||profiling.avandor.com^
-||avandor.com^$third-party
-||chargeplatform.com^$third-party
-||idunic.ro^$third-party
+||avandor.com^$third-party,important
+||chargeplatform.com^$third-party,important
+||idunic.ro^$third-party,important
 
 !altele
-||betradar.com^$third-party
-||2parale.ro^$third-party
+||betradar.com^$third-party,important
+||2parale.ro^$third-party,important
