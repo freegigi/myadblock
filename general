@@ -15,4 +15,4 @@
 ||linkedin.com^$third-party,important
 !
 ! Ads
-||doubleclick.net$important
+||doubleclick.net^$important
