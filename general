@@ -13,3 +13,6 @@
 ||facebook.net^$third-party
 ||pinterest.com^$third-party
 ||linkedin.com^$third-party
+!
+! Ads
+doubleclick.net
