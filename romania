@@ -18,4 +18,6 @@ www.digi24.ro###sticky-popup
 !altele
 ||betradar.com^$third-party,important
 ||2parale.ro^$third-party,important
-||rt.awstaticdn.net^
+||profitshare.ro^$third-party,important
+||rt.awstaticdn.net^,important
+
