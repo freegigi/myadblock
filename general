@@ -2,6 +2,7 @@
 ! Title: MY ADBLOCK GENERAL
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/freegigi/myadblock
+! Filtre in plus fata de ublock default + Fanboy Enhanced + 3xSocial
 !
 !trackers
 ||ophan.co.uk^$third-party
