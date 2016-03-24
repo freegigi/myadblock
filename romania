@@ -22,6 +22,10 @@ www.digi24.ro###sidebar_popup
 ! popup extensii
 ||rt.awstaticdn.net^$important
 !
+! hotnews
+||sso.hotnews.ro^$important
+||media.hotnews.ro/media_server1/image-2015-12-4-20641634-0-paravion-londra-4-dec.jpg
+economie.hotnews.ro###parteneri_60047
+!
 !altele
 ||betradar.com^$third-party,important
-||sso.hotnews.ro^$important
